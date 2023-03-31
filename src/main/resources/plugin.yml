@@ -1,0 +1,4 @@
+name: PigHeadDrop
+version: '${project.version}'
+main: me.dawg.pigheaddrop.PigHeadDrop
+api-version: 1.19

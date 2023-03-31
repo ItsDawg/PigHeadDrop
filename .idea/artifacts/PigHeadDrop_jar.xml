@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PigHeadDrop:jar">
+    <output-path>$PROJECT_DIR$/../localhost/plugins</output-path>
+    <root id="archive" name="PigHeadDrop.jar">
+      <element id="module-output" name="PigHeadDrop" />
+    </root>
+  </artifact>
+</component>
